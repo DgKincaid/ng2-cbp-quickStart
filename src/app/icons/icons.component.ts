@@ -99,7 +99,7 @@ export class IconsComponent {
         { icon: 'security', name: 'Security', description: '' },
         { icon: 'notifications', name: 'Notifications', description: '' },
         { icon: 'email', name: 'Email', description: '' },
-        { icon: 'apps', name: 'Applications', description: '' }
+        { icon: 'apps', name: 'Applications', description: '' },
     ];
 
     constructor() {
